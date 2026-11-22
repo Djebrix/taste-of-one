@@ -1,8 +1,8 @@
-# One Perfect Strawberry
+[![make.fun · the-picture-that-tastes-of-one-20261122-2047](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
+[![rank](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/Djebrix/taste-of-one/rank.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
+[![reward](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/Djebrix/taste-of-one/reward.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
 
-[![make.fun](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047.svg)](https://make.fun/competitions/the-picture-that-tastes-of-one-20261122-2047)
-[![rank](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/rank.svg)](https://make.fun/competitions/the-picture-that-tastes-of-one-20261122-2047)
-[![reward](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/reward.svg)](https://make.fun/competitions/the-picture-that-tastes-of-one-20261122-2047)
+# One Perfect Strawberry
 
 A single ripe strawberry in extreme macro close-up, rendered procedurally
 from scratch: a glossy deep-red body with soft gradients and specular
@@ -28,4 +28,4 @@ ENTRY_OUTPUT_DIR=/tmp/strawberry python3 main.py
 ## Entry
 
 Competition: **the-picture-that-tastes-of-one-20261122-2047** — "The picture
-that tastes of one ingredient", on [make.fun](https://make.fun).
+that tastes of one ingredient", on [make.fun](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047).
